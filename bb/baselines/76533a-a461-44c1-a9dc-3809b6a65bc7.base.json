@@ -1,0 +1,80 @@
+{
+    "AX": {
+        "error": 0.00822909553353614,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": 0.03750444507318346
+    },
+    "CDD": {
+        "error": 5.810598080928072e-22,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 10
+        },
+        "fit": "average",
+        "modifier_error": 1.0489232616286965e-05,
+        "modifier_value": 2.4940953053401757e-05,
+        "value": 2.494095305340176e-05
+    },
+    "H1": {
+        "error": 0.007205928426537907,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": -0.25803146647729885
+    },
+    "H2": {
+        "error": 0.004943969154212802,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": 0.10300439342755059
+    },
+    "L1": {
+        "error": 0.004137682318133989,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": 0.041363526232998646
+    },
+    "L2": {
+        "error": 0.004211817166208689,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": -0.017468772594476992
+    }
+}
